@@ -7,6 +7,19 @@
   width: 75%;
 }
 
+.section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+
+.aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+
 .video-item img {
   max-width: 64px;
 }
